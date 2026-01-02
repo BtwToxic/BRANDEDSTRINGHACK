@@ -39,7 +39,7 @@ async def BRANDEDHACK():
     header = Table(show_header=True, header_style="bold green")
     header.add_column(LOG_TEXT)
     LOG.print(header)
-    LOG.print(f"[bold cyan]𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚")
+    LOG.print(f"[bold cyan]toxic")
     LOG.print("[bold yellow]𝗬𝗢𝗨𝗥 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧.............")
     await app.start()    
     
